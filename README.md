@@ -1,2 +1,3 @@
 # Statistical-Analysis-of-Fandango-ratings
-Statistical analysis of Fandango Ratings, based on the Guided project on Dataquest, Data Science path
+In October 2015, a data journalist named Walt Hickey analyzed movie ratings data and found strong evidence to suggest that Fandango's rating system was biased and dishonest. 
+Based on that analysis, the goal of this project is to analyse whether the ratings since after the Hickey's analysis have changed or not. For this reason, we have two samples - 
